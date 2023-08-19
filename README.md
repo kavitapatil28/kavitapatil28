@@ -15,14 +15,28 @@
       <img src="https://github-profile-trophy.vercel.app/?username=akshaypatil29" alt="akshaypatil29"/>
     </a>
   </p>
-
+  <br clear="both">
+<div>
+  
   <p align="center">
-    🌱 Currently learning <strong>Spring Boot</strong> and <strong>Angular</strong>
+    -🌱 Currently learning <strong>Spring Boot</strong> and <strong>Angular</strong>
   </p>
 
   <p align="center">
-    📫 Reach me at: <a href="mailto:akshaypatil002333@gmail.com">akshaypatil002333@gmail.com</a>
+   - 📫 Reach me at: <a href="mailto:akshaypatil002333@gmail.com">akshaypatil002333@gmail.com</a>
   </p>
+
+  <p align="center">
+   - 💬 Ask me about anything, anytime 😄
+  </p>
+
+  <p align="center">
+   - 😄 Pronouns: He/Him 😌.
+  </p>
+  
+</div>
+
+<br clear="both">
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">
