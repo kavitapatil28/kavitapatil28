@@ -19,7 +19,7 @@
 <div>
   
   <p align="center">
-    -🌱 Currently learning <strong>Spring Boot</strong> and <strong>Angular</strong>
+    -🌱 Currently learning <strong>Web Development</strong>
   </p>
 
   <p align="center">
