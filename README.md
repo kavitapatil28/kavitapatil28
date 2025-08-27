@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Akshay Patil</h1>
-  <h3>Software Engineer | Fullstack Developer | Pune, Maharashtra</h3>
+  <h1>Hi there! 👋 I'm Kavita Patil</h1>
+  <h3>Software Engineer | Java Developer | Pune, Maharashtra</h3>
 </div>
 
 <br clear="both">
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=akshaypatil29&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatil29"/>
+    <img src="https://komarev.com/ghpvc/?username=kavitapatil28&label=Profile%20views&color=0e75b6&style=flat" alt="kavitapatil28"/>
   </p>
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=akshaypatil29" alt="akshaypatil29"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=kavitapatil28" alt="kavitapatil28"/>
     </a>
   </p>
   <br clear="both">
@@ -23,7 +23,7 @@
   </p>
 
   <p align="center">
-   - 📫 Reach me at: <a href="mailto:akshaypatil002333@gmail.com">akshaypatil002333@gmail.com</a>
+   - 📫 Reach me at: <a href="mailto:kavitap2911@gmail.com">kavitap2911@gmail.com</a>
   </p>
 
   <p align="center">
@@ -40,13 +40,13 @@
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/akshaypatil23" target="_blank">
+    <a href="https://linkedin.com/in/kavitapatil29" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
     </a>
-    <a href="https://www.hackerrank.com/akshaybp23" target="_blank">
+    <a href="https://www.hackerrank.com/kavitapatil29" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
     </a>
-    <a href="https://www.leetcode.com/akshaypatil002333" target="_blank">
+    <a href="https://www.leetcode.com/kavitap2911" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
     </a>
   </p>
