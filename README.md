@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Kavita Patil</h1>
-  <h3>Software Engineer | Java Developer | Pune, Maharashtra</h3>
+  <h3>Software Engineer | Pune, Maharashtra</h3>
 </div>
 
 <br clear="both">
@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/kavitapatil28">
       <img src="https://github-profile-trophy.vercel.app/?username=kavitapatil28" alt="kavitapatil28"/>
     </a>
   </p>
@@ -31,7 +31,7 @@
   </p>
 
   <p align="center">
-   - 😄 Pronouns: He/Him 😌.
+   - 😄 Pronouns: She/Her 😌.
   </p>
   
 </div>
@@ -73,14 +73,14 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypatil29&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavitapatil28&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akshaypatil29&show_icons=true&locale=en" alt="Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kavitapatil28&show_icons=true&locale=en" alt="Stats"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypatil29" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavitapatil28" alt="Streak Stats"/>
   </p>
 </div>
